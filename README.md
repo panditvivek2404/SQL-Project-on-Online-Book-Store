@@ -1,5 +1,4 @@
 # SQL-Project-on-Online-Book-Store
-
  This project demonstrates the design and querying of a simple Online Book Store Database using SQL Server.
  The database is built using three CSV files:
 
